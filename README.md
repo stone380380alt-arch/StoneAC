@@ -1,4 +1,4 @@
-# StoneAC (https://modrinth.com/plugin/stoneac)
+# [StoneAC](https://modrinth.com/plugin/stoneac)
 
 **A companion anticheat for [GrimAC](https://github.com/GrimAnticheat/Grim) that covers the checks GrimAC intentionally does not.**
 
