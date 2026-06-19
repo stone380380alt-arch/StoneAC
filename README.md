@@ -215,7 +215,7 @@ database:
 
 ## Bug Reports
 
-Found a bug? Open an issue on [GitHub Issues](https://github.com/your-username/StoneAC/issues) with:
+Found a bug? Open an issue on [GitHub Issues](https://github.com/stone380380alt-arch/StoneAC/issues) with:
 - Your server version (Paper build number)
 - StoneAC version
 - GrimAC version (if applicable)
@@ -227,7 +227,7 @@ Found a bug? Open an issue on [GitHub Issues](https://github.com/your-username/S
 ## Building from Source
 
 ```bash
-git clone https://github.com/your-username/StoneAC.git
+git clone https://github.com/stone380380alt-arch/StoneAC.git
 cd StoneAC
 mvn clean package
 ```
